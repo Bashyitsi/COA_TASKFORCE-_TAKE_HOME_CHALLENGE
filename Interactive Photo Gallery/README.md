@@ -17,7 +17,7 @@ To install and run the Interactive Photo Gallery locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/interactive-photo-gallery.git
+git clone https://github.com/your-username/COA_TASKFORCE-_TAKE_HOME_CHALLENGE.git
 ```
 
 2. Navigate to the project directory:
