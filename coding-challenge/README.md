@@ -51,25 +51,25 @@ The solution is implemented in the `stringTransform.js` file. It checks the leng
 
 ## Files
 
-- `Challenges/arrayMap.js` - Solution for the Array Manipulation challenge.
-- `Challenges/stringTransform.js` - Solution for the String Transformation challenge.
+- `coding-challenge/arrayMap.js` - Solution for the Array Manipulation challenge.
+- `coding-chalenge/stringTransform.js` - Solution for the String Transformation challenge.
 
 ## How to Run
 
 1. **Clone the Repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <https://github.com/Bashyitsi/COA_TASKFORCE-_TAKE_HOME_CHALLENGE>
+    cd <coding-challenge>
     ```
 
 2. **Run Array Manipulation Challenge:**
     ```bash
-    node Challenges/arrayMap.js
+    node coding-challenge/arrayMap.js
     ```
 
 3. **Run String Transformation Challenge:**
     ```bash
-    node Challenges/stringTransform.js
+    node coding-Challenge/stringTransform.js
     ```
 
 ## Testing
